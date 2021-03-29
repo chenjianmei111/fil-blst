@@ -17,8 +17,8 @@ import "C"
 import (
 	"fmt"
 
-	commcid "github.com/filecoin-project/go-fil-commcid"
-	"github.com/filecoin-project/specs-actors/actors/abi"
+	commcid "github.com/chenjianmei111/go-fil-commcid"
+	"github.com/chenjianmei111/specs-actors/actors/abi"
 	"github.com/pkg/errors"
 
 	_ "github.com/supranational/blst/bindings/go"

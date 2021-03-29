@@ -5,7 +5,7 @@ authors = ["sean-sn <sean@supranational.net>"]
 edition = "2018"
 license = "Apache-2.0"
 description = "A library to accelerate SNARK verification for the Filecoin network using the blst BLS12-381 performance library."
-repository = "https://github.com/filecoin-project/fil-blst"
+repository = "https://github.com/chenjianmei111/fil-blst"
 readme = "README.md"
 
 [build-dependencies]
