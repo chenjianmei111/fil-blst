@@ -1,6 +1,7 @@
 github.com/chenjianmei111/go-fil-commcid v0.0.1 h1:xLAbYcx488/A0g6Q1wfqq086g/kfqLRH5gcE7Lr1no8=
 github.com/chenjianmei111/go-fil-commcid v0.0.1/go.mod h1:I91W9J4U501s1mDT0KRC5CdOvnVt5ggVJZG0rg1Gg6g=
 github.com/chenjianmei111/specs-actors v0.9.44 h1:pqM1v+2izGEOC/DUHbZnRuF/cGw7MyilBoIgeI6d3UY=
+github.com/chenjianmei111/specs-actors v0.9.45 h1:vkTDK3DyL16azPO0j1SbfEMEzIuy5/Cqwv7cAPfqUcQ=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/ipfs/go-cid v0.0.6 h1:go0y+GcDOGeJIV01FeBsta4FHngoA4Wz7KMeLkXAhMs=
